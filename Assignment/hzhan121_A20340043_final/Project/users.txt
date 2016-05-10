@@ -1,0 +1,7 @@
+username: Admin
+password: HongZhang
+email:hzhan121@hawk.iit.edu
+
+username: Angel
+password:itmd562
+email:angel@hawk.iit.edu
